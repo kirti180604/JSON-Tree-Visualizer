@@ -61,8 +61,8 @@ button:hover {
 }
 
 .react-flow__renderer {
-  padding-left: 50px;
-  padding-top: 25px;
+  margin-left: 50px;
+  margin-top: 25px;
    cursor: grab;
 }
 
