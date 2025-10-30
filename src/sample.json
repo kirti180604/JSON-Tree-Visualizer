@@ -1,0 +1,14 @@
+{
+  "user": {
+    "name": "Kirti",
+    "age": 22,
+    "address": {
+      "city": "Delhi",
+      "country": "India"
+    }
+  },
+  "items": [
+    { "id": 1, "name": "Laptop" },
+    { "id": 2, "name": "Mobile" }
+  ]
+}

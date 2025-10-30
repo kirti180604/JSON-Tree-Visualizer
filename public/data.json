@@ -1,0 +1,21 @@
+{
+  "name": "Kirti",
+  "role": "Frontend Developer",
+  "skills": {
+    "frontend": ["HTML", "CSS", "JavaScript", "React"],
+    "backend": ["Node.js", "Express", "MongoDB"],
+    "tools": ["VS Code", "Git", "GitHub"]
+  },
+  "experience": {
+    "internship": {
+      "company": "WhatBytes",
+      "role": "Frontend Developer Intern",
+      "duration": "3 months"
+    }
+  },
+  "education": {
+    "degree": "B.Tech",
+    "branch": "Computer Science",
+    "year": 2025
+  }
+}

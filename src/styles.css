@@ -1,0 +1,87 @@
+body {
+  font-family: "Inter", "Poppins", sans-serif;
+  background: linear-gradient(135deg, #f7faff, #eef3ff);
+  margin: 0;
+  padding: 0;
+  color: #222;
+  text-align: center;
+}
+
+.app-container {
+  max-width: 1100px;
+  margin: 40px auto;
+  background: white;
+  padding: 30px 40px;
+  border-radius: 20px;
+  box-shadow: 0 8px 40px rgba(0, 0, 0, 0.08);
+  text-align: center;
+}
+
+h1 {
+  text-align: center;
+  color: #3a5bf0;
+  margin-bottom: 25px;
+}
+
+.json-input {
+  margin-bottom: 30px;
+  text-align: center;
+}
+
+.json-input textarea {
+  width: 100%;
+  height: 150px;
+  border-radius: 10px;
+  border: 1px solid #cbd5e1;
+  padding: 14px;
+  font-family: monospace;
+  font-size: 0.95rem;
+  background: #f8fafc;
+}
+
+button {
+  margin-top: 10px;
+  padding: 10px 20px;
+  background: #4a6cf7;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  font-weight: 500;
+  transition: background 0.2s;
+}
+
+button:hover {
+  background: #3a5bf0;
+}
+
+.error {
+  color: red;
+  text-align: center;
+}
+
+.react-flow__renderer {
+  margin-left: 200px;
+  margin-top: 250px;
+   cursor: grab;
+}
+
+.react-flow__pane {
+  cursor: grab !important;
+}
+
+.react-flow__node {
+  gap: 30px;
+}
+
+.react-flow {
+  transform: scale(0.9);
+  transform-origin: top left;
+}
+
+.react-flow__renderer {
+  padding: 50px;
+  box-sizing: border-box;
+}
+
+
