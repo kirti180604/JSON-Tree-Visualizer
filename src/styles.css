@@ -61,7 +61,7 @@ button:hover {
 }
 
 .react-flow__renderer {
-  margin-left: 100px;
+  margin-left: 200px;
   margin-top: 25px;
    cursor: grab;
 }
